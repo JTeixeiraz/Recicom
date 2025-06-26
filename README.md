@@ -15,7 +15,7 @@ Projeto de Conclusão de Software - 3º ano - 3A2
 ## Funcionalidades
 
 
-- [ ] Tela de cadastro cadastro de usuários
+- [X] Tela de cadastro cadastro de usuários
 - [ ] Funcionamento do cadastro de usuários
 - [ ] Personalização do perfil do usuário
 - [ ] Autenticação com Google
