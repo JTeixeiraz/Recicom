@@ -2,7 +2,7 @@
 Projeto de Conclusão de Software - 3º ano - 3A2
 
 
-- Integrantes deo grupo: 
+### Integrantes deo grupo: 
 - Ana Julia Alvares F. Campos – 22302085
 - Ana Luísa Leão Braga - 22401113
 - Matheus Dolga Lunardi Serio – 22300112
