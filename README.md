@@ -10,8 +10,11 @@ Projeto de Conclusão de Software - 3º ano - 3A2
 - Maria Eduarda C. Braga - 12400971
 - Danilo Oliveira Santiago - 22300104
 
-</br>
+
+
 ## Funcionalidades
+
+
 - [ ] Tela de cadastro cadastro de usuários
 - [ ] Funcionamento do cadastro de usuários
 - [ ] Personalização do perfil do usuário
